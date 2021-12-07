@@ -1,0 +1,9 @@
+Package: com.level3tjg.spotifyloginfix
+Name: Spotify Login Fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix Spotify login errors on older versions
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate
